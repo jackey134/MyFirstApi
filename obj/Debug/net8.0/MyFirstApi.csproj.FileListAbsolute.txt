@@ -27,6 +27,7 @@ D:\dev\web_api\MyFirstApi\MyFirstApi\obj\Debug\net8.0\refint\MyFirstApi.dll
 D:\dev\web_api\MyFirstApi\MyFirstApi\obj\Debug\net8.0\MyFirstApi.pdb
 D:\dev\web_api\MyFirstApi\MyFirstApi\obj\Debug\net8.0\MyFirstApi.genruntimeconfig.cache
 D:\dev\web_api\MyFirstApi\MyFirstApi\obj\Debug\net8.0\ref\MyFirstApi.dll
+D:\dev\web_api\MyFirstApi\MyFirstApi\obj\Debug\net8.0\MyFirstApi.sourcelink.json
 D:\dev\web_api\MyFirstApi\MyFirstApi\obj\Debug\net8.0\rpswa.dswa.cache.json
 D:\dev\web_api\MyFirstApi\MyFirstApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
 D:\dev\web_api\MyFirstApi\MyFirstApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
